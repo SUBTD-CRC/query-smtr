@@ -1,0 +1,4 @@
+.env
+service-account-key.json
+execucao_script.log
+execucao_query.log
